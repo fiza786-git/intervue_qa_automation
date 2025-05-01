@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files 
+__pycache__/  *.py[cod] 
+*$py.class  # C extensions 
+*.so  # Virtual environment 
+env/ 
+venv/  # VS Code settings 
+.vscode/ 
+# PyCharm settings 
+.idea/  # MacOS files 
+.DS_Store 
+# Logs and temporary files 
+*.log 
+*.swp  # Windows thumbnail cache 
+Thumbs.db 
+# Python egg files 
