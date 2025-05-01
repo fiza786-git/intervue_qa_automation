@@ -15,6 +15,9 @@ intervue_qa_automation/ ├── Intervue.py # Main automation test script ├�
 - Dropdown interaction with search suggestions
 - Logout functionality from user dropdown menu
 
+![Automation Demo](intervue_qa_gif.gif)
+
+
 ## 🛠️ Tech Stack
 
 - Python
